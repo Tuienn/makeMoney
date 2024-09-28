@@ -1,0 +1,85 @@
+{
+    "vaccineInfo": [
+        {
+            "id": "1",
+            "name": "Vắc xin AstraZeneca",
+            "price": 1000000,
+            "imgSrc": "https://i.pinimg.com/564x/85/0b/11/850b1145b36a00d170bcb686bcc9abfa.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Vắc xin Pfizer",
+            "price": 1500000,
+            "imgSrc": "https://i.pinimg.com/564x/85/0b/11/850b1145b36a00d170bcb686bcc9abfa.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Vắc xin Moderna",
+            "price": 2000000,
+            "imgSrc": "https://i.pinimg.com/564x/85/0b/11/850b1145b36a00d170bcb686bcc9abfa.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Vắc xin Sinopharm",
+            "price": 800000,
+            "imgSrc": "https://i.pinimg.com/564x/85/0b/11/850b1145b36a00d170bcb686bcc9abfa.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Vắc xin Sputnik V",
+            "price": 1200000,
+            "imgSrc": "https://i.pinimg.com/564x/85/0b/11/850b1145b36a00d170bcb686bcc9abfa.jpg"
+        },
+        {
+            "id": "6",
+            "name": "Vắc xin Johnson & Johnson",
+            "price": 1800000,
+            "imgSrc": "https://i.pinimg.com/564x/85/0b/11/850b1145b36a00d170bcb686bcc9abfa.jpg"
+        },
+        {
+            "id": "7",
+            "name": "Vắc xin Sinovac",
+            "price": 900000,
+            "imgSrc": "https://i.pinimg.com/564x/85/0b/11/850b1145b36a00d170bcb686bcc9abfa.jpg"
+        },
+        {
+            "id": "8",
+            "name": "Vắc xin Novavax",
+            "price": 1600000,
+            "imgSrc": "https://i.pinimg.com/564x/85/0b/11/850b1145b36a00d170bcb686bcc9abfa.jpg"
+        },
+        {
+            "id": "9",
+            "name": "Vắc xin Covaxin",
+            "price": 1100000,
+            "imgSrc": "https://i.pinimg.com/564x/85/0b/11/850b1145b36a00d170bcb686bcc9abfa.jpg"
+        },
+        {
+            "id": "10",
+            "name": "Vắc xin CanSino",
+            "price": 1300000,
+            "imgSrc": "https://i.pinimg.com/564x/85/0b/11/850b1145b36a00d170bcb686bcc9abfa.jpg"
+        },
+        {
+            "id": "11",
+            "name": "Vắc xin Sanofi-GSK",
+            "price": 1700000,
+            "imgSrc": "https://i.pinimg.com/564x/85/0b/11/850b1145b36a00d170bcb686bcc9abfa.jpg"
+        },
+        {
+            "id": "12",
+            "name": "Vắc xin CureVac",
+            "price": 1400000,
+            "imgSrc": "https://i.pinimg.com/564x/85/0b/11/850b1145b36a00d170bcb686bcc9abfa.jpg"
+        },
+        {
+            "id": "13",
+            "name": "Vắc xin Valneva",
+            "price": 1900000,
+            "imgSrc": "https://i.pinimg.com/564x/85/0b/11/850b1145b36a00d170bcb686bcc9abfa.jpg"
+        }
+    ],
+    "screeningInfo": [],
+    "vaccinationCard": [],
+    "bill": []
+}
